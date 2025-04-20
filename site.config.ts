@@ -56,7 +56,7 @@ export default siteConfig({
     {
       title: 'Shop',
       pageId: '1db178b8c93c80dda00bfee7b0f7a8eb'
-    }
+    },
     {
       title: 'About',
       pageId: '1db178b8c93c8053a51ed7331cb4c353'
